@@ -1,2 +1,2 @@
 Travis is CI server for Linux
-travis.ci.org --> login with Github and sync with github repository repository
+travis.ci.org --> login with Github and sync with github repository
